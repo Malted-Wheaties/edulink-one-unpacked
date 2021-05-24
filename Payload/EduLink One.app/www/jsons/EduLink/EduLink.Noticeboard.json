@@ -1,0 +1,87 @@
+{
+   "jsonrpc": "2.0",
+   "result": {
+      "method": "EduLink.Noticeboard",
+      "success": true,
+      "noticeboard": [
+         {
+            "id": 1,
+            "name": "School Newsletter May 2019",
+            "filename": "Newsletter.pdf",
+            "filesize": 95310,
+            "mime_type": "application/pdf",
+            "position": 10
+         },
+         {
+            "id": 3,
+            "name": "School Newsletter June 2019",
+            "filename": "Newsletter.pdf",
+            "filesize": 27792,
+            "mime_type": "application/pdf",
+            "position": 30
+         },
+		 {
+            "id": 3,
+            "name": "School Newsletter July 2019",
+            "filename": "Newsletter.pdf",
+            "filesize": 27792,
+            "mime_type": "application/pdf",
+            "position": 30
+         },
+		 {
+            "id": 3,
+            "name": "School Newsletter September 2019",
+            "filename": "Newsletter.pdf",
+            "filesize": 27792,
+            "mime_type": "application/pdf",
+            "position": 30
+         },
+		 {
+            "id": 1,
+            "name": "School Newsletter October 2019",
+            "filename": "Newsletter.pdf",
+            "filesize": 95310,
+            "mime_type": "application/pdf",
+            "position": 10
+         },
+         {
+            "id": 3,
+            "name": "School Newsletter November 2019",
+            "filename": "Newsletter.pdf",
+            "filesize": 27792,
+            "mime_type": "application/pdf",
+            "position": 30
+         },
+		 {
+            "id": 3,
+            "name": "School Newsletter December 2019",
+            "filename": "Newsletter.pdf",
+            "filesize": 27792,
+            "mime_type": "application/pdf",
+            "position": 30
+         },
+		 {
+            "id": 3,
+            "name": "School Newsletter January 2020",
+            "filename": "Newsletter.pdf",
+            "filesize": 27792,
+            "mime_type": "application/pdf",
+            "position": 30
+         },
+         {
+            "id": 4,
+            "name": "Contribute to the Newsletter",
+            "filename": "contribute.DOCX",
+            "filesize": 54077,
+            "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "position": 40
+         }
+      ],
+	  "snippets": [],
+      "metrics": {
+         "st": "2018-06-21 17:08:37",
+         "sspt": 0.04490494728088379
+      }
+   },
+   "id": "4"
+}

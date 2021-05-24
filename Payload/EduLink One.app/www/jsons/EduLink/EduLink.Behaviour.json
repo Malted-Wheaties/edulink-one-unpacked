@@ -1,0 +1,1386 @@
+{
+    "jsonrpc": "2.0",
+    "result": {
+        "method": "EduLink.Behaviour",
+        "success": true,
+        "b4l": [
+            {
+                "subject": "Art",
+                "values": {
+                    "-": 54
+                }
+            },
+            {
+                "subject": "Design & Technology",
+                "values": {
+                    "-": 50
+                }
+            },
+            {
+                "subject": "English",
+                "values": {
+                    "-": 107
+                }
+            },
+            {
+                "subject": "French",
+                "values": {
+                    "-": 79,
+                    "N": 1
+                }
+            },
+            {
+                "subject": "Geography",
+                "values": {
+                    "-": 27
+                }
+            },
+            {
+                "subject": "German",
+                "values": {
+                    "-": 25
+                }
+            },
+            {
+                "subject": "History",
+                "values": {
+                    "-": 25
+                }
+            },
+            {
+                "subject": "Mathematics",
+                "values": {
+                    "-": 105
+                }
+            },
+            {
+                "subject": "PSE",
+                "values": {
+                    "-": 27
+                }
+            },
+            {
+                "subject": "Physical Ed",
+                "values": {
+                    "-": 54
+                }
+            },
+            {
+                "subject": "Religious Education",
+                "values": {
+                    "-": 27
+                }
+            },
+            {
+                "subject": "Science",
+                "values": {
+                    "-": 77,
+                    "\/": 2
+                }
+            }
+        ],
+        "report_cards": [
+            {
+                "behaviour_incident_type_id": 10,
+                "start_date": "2020-03-04",
+                "end_date": "2020-03-04",
+                "comments": "Smashed up the office",
+                "active": true,
+                "current": true,
+                "id": 70
+            },
+            {
+                "behaviour_incident_type_id": 7,
+                "start_date": "2020-01-27",
+                "end_date": "2020-01-27",
+                "comments": "Naughty boy",
+                "active": true,
+                "current": false,
+                "id": 68
+            }
+        ],
+        "detentions": [
+            {
+                "attended": "Not Attended",
+                "non_attendance_reason": "",
+                "id": 2580,
+                "description": null,
+                "start_time": "09:46:00",
+                "end_time": "16:00:00",
+                "location": "Art Room 1",
+                "date": "2020-03-06"
+            },
+            {
+                "attended": "Not Attended",
+                "non_attendance_reason": "",
+                "id": 1526,
+                "description": "Lucy's Detention",
+                "start_time": "12:00:00",
+                "end_time": "12:30:00",
+                "location": "Business Studies 1",
+                "date": "2020-03-02"
+            },
+            {
+                "attended": "Not Attended",
+                "non_attendance_reason": "Did not turn up",
+                "id": 1527,
+                "description": "Lucy's Detention",
+                "start_time": "12:00:00",
+                "end_time": "12:30:00",
+                "location": "Business Studies 1",
+                "date": "2020-02-28"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1561,
+                "description": null,
+                "start_time": "17:00:00",
+                "end_time": "18:00:00",
+                "location": "Construction Room 1",
+                "date": "2020-02-28"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 2576,
+                "description": null,
+                "start_time": "16:00:00",
+                "end_time": "17:00:00",
+                "location": "Horticulture Area",
+                "date": "2020-02-28"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1536,
+                "description": "Lucy's Detention",
+                "start_time": "12:00:00",
+                "end_time": "12:30:00",
+                "location": "Business Studies 1",
+                "date": "2020-02-17"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1541,
+                "description": "Lucy's Detention",
+                "start_time": "12:00:00",
+                "end_time": "12:30:00",
+                "location": "Business Studies 1",
+                "date": "2020-02-03"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1573,
+                "description": null,
+                "start_time": "16:00:00",
+                "end_time": "17:00:00",
+                "location": "Drama Studio",
+                "date": "2020-02-03"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1568,
+                "description": null,
+                "start_time": "16:00:00",
+                "end_time": "17:00:00",
+                "location": "Changing Rooms",
+                "date": "2020-01-31"
+            },
+            {
+                "attended": "Not Attended",
+                "non_attendance_reason": "aaa",
+                "id": 1542,
+                "description": "Lucy's Detention",
+                "start_time": "12:00:00",
+                "end_time": "12:30:00",
+                "location": "Business Studies 1",
+                "date": "2020-01-31"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1564,
+                "description": null,
+                "start_time": "16:00:00",
+                "end_time": "17:00:00",
+                "location": "English Room 1",
+                "date": "2020-01-23"
+            },
+            {
+                "attended": "Attended",
+                "non_attendance_reason": "",
+                "id": 1549,
+                "description": "Lucy's Detention",
+                "start_time": "12:00:00",
+                "end_time": "12:30:00",
+                "location": "Business Studies 1",
+                "date": "2020-01-22"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1551,
+                "description": "Lucy's Detention",
+                "start_time": "12:00:00",
+                "end_time": "12:30:00",
+                "location": "Business Studies 1",
+                "date": "2020-01-20"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1558,
+                "description": null,
+                "start_time": "09:30:00",
+                "end_time": "10:00:00",
+                "location": "Art Room 3",
+                "date": "2020-01-17"
+            },
+            {
+                "attended": "Attended",
+                "non_attendance_reason": "",
+                "id": 1559,
+                "description": null,
+                "start_time": "15:05:00",
+                "end_time": "16:05:00",
+                "location": "Art Room 3",
+                "date": "2020-01-17"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1552,
+                "description": "Lucy's Detention",
+                "start_time": "12:00:00",
+                "end_time": "12:30:00",
+                "location": "Business Studies 1",
+                "date": "2020-01-17"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1525,
+                "description": null,
+                "start_time": "10:16:00",
+                "end_time": "11:25:00",
+                "location": "Art Room 2",
+                "date": "2020-01-15"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1524,
+                "description": null,
+                "start_time": "16:00:00",
+                "end_time": "16:30:00",
+                "location": "Art Room 1",
+                "date": "2020-01-14"
+            },
+            {
+                "attended": "Not Recorded",
+                "non_attendance_reason": "",
+                "id": 1523,
+                "description": null,
+                "start_time": "16:00:00",
+                "end_time": "17:00:00",
+                "location": "Business Studies 2",
+                "date": "2020-01-10"
+            }
+        ],
+        "behaviour": [
+            {
+                "id": 7809,
+                "type_ids": [
+                    10
+                ],
+                "activity_id": null,
+                "date": "2020-03-13",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": null,
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-03-13"
+                },
+                "lesson_information": " - ",
+                "points": 25
+            },
+            {
+                "id": 7807,
+                "type_ids": [
+                    14
+                ],
+                "activity_id": null,
+                "date": "2020-02-28",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-02-28"
+                },
+                "points": 20,
+                "lesson_information": " - "
+            },
+            {
+                "id": 7806,
+                "type_ids": [
+                    11
+                ],
+                "activity_id": null,
+                "date": "2020-02-28",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-02-28"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 7796,
+                "type_ids": [
+                    11
+                ],
+                "activity_id": null,
+                "date": "2020-02-17",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 43,
+                    "date": "2020-02-17",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-02-17"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 7795,
+                "type_ids": [
+                    26
+                ],
+                "activity_id": null,
+                "date": "2020-02-14",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-02-14"
+                },
+                "points": 50,
+                "lesson_information": " - "
+            },
+            {
+                "id": 7794,
+                "type_ids": [
+                    4
+                ],
+                "activity_id": null,
+                "date": "2020-02-14",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 26,
+                    "date": "2020-02-14",
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-02-14"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 7793,
+                "type_ids": [
+                    14
+                ],
+                "activity_id": null,
+                "date": "2020-02-14",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 26,
+                    "date": "2020-02-14",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-02-14"
+                },
+                "points": 20,
+                "lesson_information": " - "
+            },
+            {
+                "id": 7792,
+                "type_ids": [
+                    10
+                ],
+                "activity_id": null,
+                "date": "2020-02-07",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-02-07"
+                },
+                "points": 25,
+                "lesson_information": " - "
+            },
+            {
+                "id": 7791,
+                "type_ids": [
+                    39
+                ],
+                "activity_id": null,
+                "date": "2020-02-06",
+                "time_id": null,
+                "status_id": 5,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 27,
+                    "date": "2020-02-06",
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "1",
+                    "date": "2020-02-06"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 7786,
+                "type_ids": [
+                    10
+                ],
+                "activity_id": null,
+                "date": "2020-02-03",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-02-03"
+                },
+                "points": 25,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6769,
+                "type_ids": [
+                    26
+                ],
+                "activity_id": null,
+                "date": "2020-01-31",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-31"
+                },
+                "points": 50,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6783,
+                "type_ids": [
+                    28
+                ],
+                "activity_id": null,
+                "date": "2020-01-31",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-31"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6764,
+                "type_ids": [
+                    26
+                ],
+                "activity_id": null,
+                "date": "2020-01-30",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-30"
+                },
+                "points": 50,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6751,
+                "type_ids": [
+                    26
+                ],
+                "activity_id": null,
+                "date": "2020-01-27",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-27"
+                },
+                "points": 50,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6734,
+                "type_ids": [
+                    35
+                ],
+                "activity_id": null,
+                "date": "2020-01-24",
+                "time_id": null,
+                "status_id": 7,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-24"
+                },
+                "points": 50,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6733,
+                "type_ids": [
+                    35
+                ],
+                "activity_id": null,
+                "date": "2020-01-24",
+                "time_id": null,
+                "status_id": 6,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 43,
+                    "date": "2020-01-24",
+                    "employee_id": "34"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-24"
+                },
+                "points": 50,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6732,
+                "type_ids": [
+                    11
+                ],
+                "activity_id": null,
+                "date": "2020-01-24",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 43,
+                    "date": "2020-01-24",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-24"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6731,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-24",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-24"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6730,
+                "type_ids": [
+                    22
+                ],
+                "activity_id": null,
+                "date": "2020-01-24",
+                "time_id": null,
+                "status_id": 6,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 27,
+                    "date": "2020-01-24",
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-24"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6729,
+                "type_ids": [
+                    39
+                ],
+                "activity_id": null,
+                "date": "2020-01-24",
+                "time_id": null,
+                "status_id": 6,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 27,
+                    "date": "2020-01-24",
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-24"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6693,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-23",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-23"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6690,
+                "type_ids": [
+                    11
+                ],
+                "activity_id": null,
+                "date": "2020-01-22",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-22"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6689,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-22",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-22"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6685,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-21",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-21"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6673,
+                "type_ids": [
+                    28
+                ],
+                "activity_id": null,
+                "date": "2020-01-20",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": 52,
+                "action_taken": {
+                    "id": 43,
+                    "date": "2020-01-20",
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-20"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6674,
+                "type_ids": [
+                    11
+                ],
+                "activity_id": 7,
+                "date": "2020-01-20",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": 52,
+                "action_taken": {
+                    "id": 27,
+                    "date": "2020-01-20",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-20"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6668,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-17",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-17"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6666,
+                "type_ids": [
+                    26
+                ],
+                "activity_id": 1,
+                "date": "2020-01-17",
+                "time_id": 15,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": 27,
+                "action_taken": {
+                    "id": 44,
+                    "date": "2020-01-17",
+                    "employee_id": "12268"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-17"
+                },
+                "points": 50,
+                "lesson_information": "Religious Education - 9X1\/Re - Fri:1"
+            },
+            {
+                "id": 6660,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-17",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-17"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6653,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-16",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-16"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6652,
+                "type_ids": [
+                    12
+                ],
+                "activity_id": null,
+                "date": "2020-01-16",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 27,
+                    "date": "2020-01-16",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-16"
+                },
+                "points": 20,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6651,
+                "type_ids": [
+                    14
+                ],
+                "activity_id": null,
+                "date": "2020-01-16",
+                "time_id": null,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 27,
+                    "date": "2020-01-16",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-16"
+                },
+                "points": 20,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6655,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-16",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-16"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6656,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-16",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-16"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6657,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-16",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-16"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6658,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-16",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-16"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6650,
+                "type_ids": [
+                    11
+                ],
+                "activity_id": null,
+                "date": "2020-01-15",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 43,
+                    "date": "2020-01-15",
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-15"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6649,
+                "type_ids": [
+                    11
+                ],
+                "activity_id": null,
+                "date": "2020-01-15",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 43,
+                    "date": "2020-01-15",
+                    "employee_id": "34"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-15"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6648,
+                "type_ids": [
+                    26
+                ],
+                "activity_id": null,
+                "date": "2020-01-15",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-15"
+                },
+                "points": 50,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6645,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-15",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-15"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6638,
+                "type_ids": [
+                    11
+                ],
+                "activity_id": 1,
+                "date": "2020-01-14",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": 45,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-14"
+                },
+                "points": 10,
+                "lesson_information": " - "
+            },
+            {
+                "id": 6637,
+                "type_ids": [
+                    26
+                ],
+                "activity_id": 1,
+                "date": "2020-01-10",
+                "time_id": null,
+                "status_id": 7,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": 27,
+                    "date": "2020-01-10",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-10"
+                },
+                "points": 50,
+                "lesson_information": " - "
+            },
+            {
+                "id": 5635,
+                "type_ids": [
+                    10
+                ],
+                "activity_id": 7,
+                "date": "2020-01-08",
+                "time_id": 14,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": 27,
+                "action_taken": {
+                    "id": 44,
+                    "date": "2020-01-08",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-08"
+                },
+                "points": 25,
+                "lesson_information": " - "
+            },
+            {
+                "id": 5634,
+                "type_ids": [
+                    26
+                ],
+                "activity_id": 7,
+                "date": "2020-01-06",
+                "time_id": 14,
+                "status_id": 2,
+                "bullying_type_id": null,
+                "location_id": 27,
+                "action_taken": {
+                    "id": 44,
+                    "date": "2020-01-21",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-06"
+                },
+                "points": 50,
+                "lesson_information": " - "
+            },
+            {
+                "id": 5633,
+                "type_ids": [
+                    10
+                ],
+                "activity_id": 15,
+                "date": "2020-01-04",
+                "time_id": 20,
+                "status_id": 7,
+                "bullying_type_id": null,
+                "location_id": 27,
+                "action_taken": {
+                    "id": 44,
+                    "date": "2020-01-15",
+                    "employee_id": "26"
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-04"
+                },
+                "points": 25,
+                "lesson_information": " - "
+            },
+            {
+                "id": 5632,
+                "type_ids": [
+                    37
+                ],
+                "activity_id": null,
+                "date": "2020-01-02",
+                "time_id": null,
+                "status_id": 1,
+                "bullying_type_id": null,
+                "location_id": null,
+                "action_taken": {
+                    "id": null,
+                    "date": null,
+                    "employee_id": ""
+                },
+                "recorded": {
+                    "employee_id": "26",
+                    "date": "2020-01-02"
+                },
+                "points": 1,
+                "lesson_information": " - "
+            }
+        ],
+        "employees": [
+            {
+                "id": "1",
+                "title": "Mr",
+                "forename": "A.",
+                "surname": "Blacker"
+            },
+            {
+                "id": "26",
+                "title": "Mrs",
+                "forename": "A.",
+                "surname": "Abell"
+            },
+            {
+                "id": "34",
+                "title": "Mrs",
+                "forename": "S.",
+                "surname": "Andrews"
+            },
+            {
+                "id": "12268",
+                "title": "Miss",
+                "forename": "S.",
+                "surname": "Abdullah"
+            }
+        ],
+        "hide_fields": [
+            "comments"
+        ],
+        "metrics": {
+            "st": "2020-04-07 08:00:04",
+            "sspt": 1.0627150535583496,
+            "sspt_us": 1062715,
+            "uniqid": "5e8c24f4a40fb"
+        }
+    },
+    "id": "1"
+}

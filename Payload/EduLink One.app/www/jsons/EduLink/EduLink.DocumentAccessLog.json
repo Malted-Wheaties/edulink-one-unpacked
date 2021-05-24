@@ -1,0 +1,14 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "method": "EduLink.DocumentAccessLog",
+    "success": true,
+    "log": [],
+    "metrics": {
+      "st": "2019-12-20 13:29:44",
+      "sspt": 0.012320995330810547,
+      "uniqid": "5dfcccc854037"
+    }
+  },
+  "id": "1"
+}

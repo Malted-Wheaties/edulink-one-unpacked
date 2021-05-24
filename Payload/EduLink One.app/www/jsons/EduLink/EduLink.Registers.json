@@ -1,0 +1,40 @@
+{
+   "jsonrpc": "2.0",
+   "result": {
+		"method": "EduLink.Registers",
+        "success": true,
+		"registers": [
+         {
+            "id": "1",
+            "name": "AM: 9A in A2",
+            "linked": false
+         },
+         {
+            "id": "2",
+            "name": "PM: 9A in A2",
+            "linked": false
+         },
+         {
+            "id": "3",
+            "name": "Mon:1: 7E/En in E4",
+            "linked": false
+         },
+         {
+            "id": "4",
+            "name": "Mon:3: 10x/En2 in E4",
+            "linked": false
+         },
+         {
+            "id": "5",
+            "name": "Mon:4 10x/En2 in E4",
+            "linked": true
+         },
+         {
+            "id": "6",
+            "name": "Mon:5 11x/En2 in E4",
+            "linked": false
+         }
+      ]
+   },
+   "id": 1
+}

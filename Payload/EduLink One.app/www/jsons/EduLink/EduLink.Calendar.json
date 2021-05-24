@@ -1,0 +1,162 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+  "method": "EduLink.Calendar",
+  "success": true,
+  "calendar": [
+    {
+      "start_date": "2016-09-05 09:00:00",
+      "end_date": "2016-09-05 16:59:00",
+      "description": "Staff Training Day",
+      "notes": "INSET",
+      "all_day_event": false,
+      "duration": "07:59"
+    },
+    {
+      "start_date": "2016-09-22 09:00:00",
+      "end_date": "2016-09-22 16:59:00",
+      "description": "Staff Training Day",
+      "notes": "INSET Day",
+      "all_day_event": false,
+      "duration": "07:59"
+    },
+    {
+      "start_date": "2016-10-22 00:00:00",
+      "end_date": "2016-10-30 23:59:00",
+      "description": "October Holiday",
+      "notes": "",
+      "all_day_event": true,
+      "duration": "8 days 23:59"
+    },
+    {
+    "start_date": "2016-11-25 09:00:00",
+    "end_date": "2016-11-25 16:59:00",
+    "description": "Staff Training Day",
+    "notes": "INSET Day",
+    "all_day_event": false,
+    "duration": "07:59"
+    },
+    {
+    "start_date": "2016-12-22 00:00:00",
+    "end_date": "2017-01-02 23:59:00",
+    "description": "Christmas Holiday",
+    "notes": "",
+    "all_day_event": true,
+    "duration": "11 days 23:59"
+    },
+    {
+    "start_date": "2018-01-03 09:00:00",
+    "end_date": "2018-01-03 16:59:00",
+    "description": "Staff Training Day",
+    "notes": "INSET Day",
+    "all_day_event": false,
+    "duration": "07:59"
+    },
+    {
+    "start_date": "2018-01-23 09:00:00",
+    "end_date": "2018-01-23 17:00:00",
+    "description": "Year 7 Warwick Castle Trip",
+    "notes": "",
+    "all_day_event": false,
+    "duration": "08:00"
+    },
+    {
+    "start_date": "2018-01-24 15:00:00",
+    "end_date": "2018-01-24 16:30:00",
+    "description": "Chess Club",
+    "notes": "In Room 1",
+    "all_day_event": false,
+    "duration": "01:30"
+    },
+    {
+    "start_date": "2020-01-22 17:00:00",
+    "end_date": "2020-01-22 19:00:00",
+    "description": "High School Musical - School Production",
+    "notes": "Tickets Avalible from Reception",
+    "all_day_event": false,
+    "duration": "02:00"
+    },
+    {
+    "start_date": "2020-01-23 09:00:00",
+    "end_date": "2020-01-23 11:00:00",
+    "description": "Year 11 Parents Consultation Morning",
+    "notes": "Meeting Room 2",
+    "all_day_event": false,
+    "duration": "02:00"
+    },
+    {
+    "start_date": "2020-01-24 17:00:00",
+    "end_date": "2020-01-24 19:00:00",
+    "description": "High School Musical - School Production",
+    "notes": "Tickets Avalible from Reception",
+    "all_day_event": false,
+    "duration": "02:00"
+    },
+    {
+    "start_date": "2020-01-25 12:30:00",
+    "end_date": "2020-01-25 15:10:00",
+    "description": "Sixthform Fundraising Event",
+    "notes": "School Hall",
+    "all_day_event": false,
+    "duration": "04:40"
+    },
+    {
+    "start_date": "2020-01-25 17:00:00",
+    "end_date": "2017-01-27 19:00:00",
+    "description": "High School Musical - School Production",
+    "notes": "Tickets Avalible from Reception",
+    "all_day_event": false,
+    "duration": "02:00"
+    },
+    {
+    "start_date": "2017-02-11 00:00:00",
+    "end_date": "2017-02-19 23:59:00",
+    "description": "February Holiday",
+    "notes": "",
+    "all_day_event": true,
+    "duration": "8 days 23:59"
+    },
+    {
+    "start_date": "2017-04-01 00:00:00",
+    "end_date": "2017-04-17 23:59:00",
+    "description": "Easter Holiday",
+    "notes": "",
+    "all_day_event": true,
+    "duration": "16 days 23:59"
+    },
+    {
+    "start_date": "2017-04-28 09:00:00",
+    "end_date": "2017-04-28 16:59:00",
+    "description": "Staff Training Day",
+    "notes": "INSET Day",
+    "all_day_event": false,
+    "duration": "07:59"
+    },
+    {
+    "start_date": "2017-05-01 00:00:00",
+    "end_date": "2017-05-01 23:59:00",
+    "description": "Bank Holiday",
+    "notes": "May Day Bank Holiday",
+    "all_day_event": true,
+    "duration": "23:59"
+    },
+    {
+    "start_date": "2017-05-27 00:00:00",
+    "end_date": "2017-06-04 23:59:00",
+    "description": "Spring Holiday",
+    "notes": "",
+    "all_day_event": true,
+    "duration": "8 days 23:59"
+    },
+    {
+    "start_date": "2017-07-22 00:00:00",
+    "end_date": "2017-09-04 23:59:00",
+    "description": "Summer Holiday",
+    "notes": "",
+    "all_day_event": true,
+    "duration": "44 days 23:59"
+    }
+    ]
+    },
+    "id": "1"
+    }

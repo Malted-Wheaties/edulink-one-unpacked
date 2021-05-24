@@ -1,0 +1,47 @@
+{
+   "jsonrpc": "2.0",
+   "result": {
+      "method": "Communicator.Inbox",
+      "success": true,
+      "messages": [
+         {
+            "id": 302,
+            "type": "email",
+            "subject": "Jimmy Abbey - UCAS Reference",
+            "body": "Hi Anita, <p>Just a reminder you need to complete Jimmy Abbey's UCAS Reference by end of day <b>tomorrow</b>.</p><p>Thanks</p><p>Dawn</p>",
+            "date": "2017-01-19 13:28",
+            "read": "2017-01-18 16:18",
+            "sender": {
+               "id": "45",
+               "type": "employee",
+               "name": "Mrs Dawn Asher"
+            },
+            "attachments": []
+         },
+         {
+            "id": 288,
+            "type": "email",
+            "subject": "Jimmy Abbey - Wrong Shoes",
+            "body": "Mrs. Abell,<p>Unfortunately Jimmy's school shoes have become unwearable, I will be taking him shoe shopping this weekend until then I will be sending him in wearing trainers.</p><p>I am aware this is against school policy but the only alternative was his wellington boots.</p><p>Thanks in Advance</p><p>Mr. Abbey</p>",
+            "date": "2017-01-18 16:03",
+            "logged": null,
+            "sender": {
+               "id": "7339",
+               "type": "parent",
+               "name": "Mr. David Abbey"
+            },
+            "attachments": []
+         }
+      ],
+      "pagination": {
+         "current_page": 1,
+         "total_pages": 1,
+         "total_records": 2
+      },
+      "metrics": {
+         "st": "2018-06-25 17:16:24",
+         "sspt": 0.1710059642791748
+      }
+   },
+   "id": "1"
+}
